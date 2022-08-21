@@ -9,7 +9,7 @@ _ROMEOBOT_MAIN() {
     $(_python_ 'from git import Repo
 import sys
 
-_UPSTREAM_ = "https://github.com/ROMEORJATM/ROMEOBOT"
+_UPSTREAM_ = "https://github.com/Romeo-RJ/ROMEOBOT"
 _BRANCH_ = "master"
 
 repo = Repo.init()
