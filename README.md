@@ -19,7 +19,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Romeo-RJ/ROMEOBOT?&style=flat-square&logo=github)](https://github.com/Romeo-RJ/ROMEOBOT/stargazers)
 ![Repo Size](https://img.shields.io/github/repo-size/Romeo-RJ/ROMEOBOT?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-[![GitHub license](https://img.shields.io/github/license/Romeo-RJ/ROMEOBOT?&style=flat-square&logo=github)](https://github.com/ROMEORJATM/ROMEOBOTt/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Romeo-RJ/ROMEOBOT?&style=flat-square&logo=github)](https://github.com/Romeo-RJ/ROMEOBOTt/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/Romeo-RJ/ROMEOBOT?color=Pink&label=Language&style=flat-square)
