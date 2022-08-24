@@ -26,8 +26,8 @@
 
 ------
 ## Telegram 
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Bot_Support_Grp)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bot_Updates_Chnl)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/RomeoBot_OP)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Romeo_op)
 
 ------
 ## Deploy To Heroku
