@@ -92,3 +92,9 @@
 - In short, Fork At Your Own Risk.
 
 ------
+### 💖 ᴄʀᴇᴅɪᴛs
+
+- Hell-Bot
+- Legend-Bot
+- Telethon 
+- xyz..😎
