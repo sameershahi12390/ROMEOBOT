@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/a62b9c7d9848afde0569e.jpg" alt="Romeo-RJ">
+  <img src="https://telegra.ph/file/a6aa019c3c38cfc11a08d.jpg" alt="Romeo-RJ">
 </p>
 
 <h6 align="center">
@@ -15,11 +15,11 @@
 </h3>
 
 ------
-[![GitHub forks](https://img.shields.io/github/forks/Romeo-RJ/ROMEOBOT?&style=flat-square&logo=github)](https://github.com/Romeo-RJ/ROMEOBOT/fork)
-[![GitHub stars](https://img.shields.io/github/stars/Romeo-RJ/ROMEOBOT?&style=flat-square&logo=github)](https://github.com/Romeo-RJ/ROMEOBOT/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sameershahi12390/ROMEOBOT?&style=flat-square&logo=github)](https://github.com/Romeo-RJ/ROMEOBOT/fork)
+[![GitHub stars](https://img.shields.io/github/stars/sameershahi12390/ROMEOBOT?&style=flat-square&logo=github)](https://github.com/Romeo-RJ/ROMEOBOT/stargazers)
 ![Repo Size](https://img.shields.io/github/repo-size/Romeo-RJ/ROMEOBOT?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-[![GitHub license](https://img.shields.io/github/license/Romeo-RJ/ROMEOBOT?&style=flat-square&logo=github)](https://github.com/Romeo-RJ/ROMEOBOTt/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Romeo-RJ/ROMEOBOT?&style=flat-square&logo=github)](https://github.com/sameershahi12390/ROMEOBOTt/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/Romeo-RJ/ROMEOBOT?color=Pink&label=Language&style=flat-square)
@@ -51,7 +51,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/Romeo-RJ/ROMEOBOT.git`
+`git clone https://github.com/sameershahi12390/ROMEOBOT.git`
 - Open Cloned Folder.
 
 `cd ROMEOUSERBOT`
